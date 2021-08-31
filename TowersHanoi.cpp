@@ -1,5 +1,3 @@
-//Jonathan Butz COSC 220 Project #2
-
 #include <iostream>
 #include <string>
 
